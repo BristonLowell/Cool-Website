@@ -1,0 +1,74 @@
+.bg-blue{
+  background-color: rgb(48, 48, 131);
+}
+
+.text-center{
+  text-align: center;
+}
+
+.blackBorder{
+  border: 3px solid black;
+}
+
+.font{
+  font-family: sans-serif;
+}
+
+.fontShadow{
+  filter: drop-shadow(4px 0 16px rgba(0, 0, 0, 0.3));
+}
+
+.websitePage{
+  padding-top: 9em;
+  padding-bottom: 5em;
+  padding-right: 32em;
+  padding-left: 32em;
+  background-color: black;
+}
+
+.websiteInfo{
+  background-color: white;
+  padding: 2px;
+}
+.coolSite{
+  color: whitesmoke;
+  padding: 0px;
+  margin: 0px;
+  font-size: 150%;
+  height: 90px;
+}
+
+.lightBlue{
+  padding: 9px;
+  background-color: rgb(200, 234, 248);
+  margin-top: 50px;
+  margin-left: 170px;
+  margin-right: 260px;
+}
+.designers{
+  font-size: 190%;
+  margin-top: 10px;
+  margin-right: 90px;
+  margin-bottom: 20px;
+}
+
+.paragraph{
+  align-content: center;
+  flex-wrap: wrap;
+  margin-left: 200px;
+  margin-right: 275px;
+}
+
+.paragraphTwo{
+  margin-bottom: 15px;
+}
+
+#footerBox{
+  padding: 60px;
+  size: 4em;
+}
+
+.footBox{
+  margin-left: 0px;
+  margin-right: 0px;
+}
